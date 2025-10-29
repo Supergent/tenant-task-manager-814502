@@ -1,0 +1,4 @@
+{
+  "deployment": "dev",
+  "functions": "packages/convex/"
+}

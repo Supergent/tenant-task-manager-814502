@@ -1,0 +1,19 @@
+{
+  "name": "marketplace-app",
+  "version": "0.1.0",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "dev": "turbo dev",
+    "build": "turbo build",
+    "lint": "turbo lint"
+  },
+  "devDependencies": {
+    "turbo": "latest",
+    "convex": "^1.16.0"
+  },
+  "packageManager": "pnpm@9.0.0"
+}

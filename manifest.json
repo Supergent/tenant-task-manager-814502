@@ -1,0 +1,18 @@
+{
+  "version": "1.0.0",
+  "app": {
+    "name": "Task Manager",
+    "description": "A marketplace app",
+    "author": "generated",
+    "icon": "\ud83d\udce6"
+  },
+  "permissions": {
+    "convexRead": [
+      "own"
+    ],
+    "convexWrite": [
+      "own"
+    ],
+    "storage": false
+  }
+}
